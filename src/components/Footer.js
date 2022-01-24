@@ -9,7 +9,7 @@ const links = [
 ]
 const madeWithLinks = [
   { url: 'https://www.gatsbyjs.org/', label: 'Gatsby', icon: gatsby },
-  { url: 'https://github.com/heriswn/gatsby-dark-mode-starter', label: 'GitHub', icon: github },
+  { url: 'https://github.com/heriswn', label: 'GitHub', icon: github },
 ]
 
 export const Footer = () => {

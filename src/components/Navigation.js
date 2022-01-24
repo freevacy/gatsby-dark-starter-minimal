@@ -12,7 +12,7 @@ const mainNavItems = [
 ]
 
 const socialNavItems = [
-  { url: 'https://github.com/heriswn/gatsby-dark-mode-starter', icon: github, label: 'GitHub' },
+  { url: 'https://github.com/heriswn', icon: github, label: 'GitHub' },
   { url: 'https://twitter.com/analystid', icon: twitter, label: 'Twitter' },
 ]
 

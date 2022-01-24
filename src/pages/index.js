@@ -46,7 +46,7 @@ export default function WebsiteIndex() {
               </Link>
               {followers && (
                 <a
-                  href="https://github.com/taniarascia"
+                  href="https://github.com/heriswn"
                   className="button icon-button"
                   target="_blank"
                   rel="noreferrer"
