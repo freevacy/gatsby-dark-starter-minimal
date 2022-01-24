@@ -4,8 +4,9 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby dark minimal starter
 </h1>
+
 A simple starter to get developing quickly with Gatsby, dark mode inspiration from [Tania Rascia](https://www.taniarascia.com/)
 
 ## 🚀 Quick start
