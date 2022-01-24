@@ -6,6 +6,7 @@
 <h1 align="center">
   Gatsby minimal starter
 </h1>
+A simple starter to get developing quickly with Gatsby, dark mode inspiration from [Tania Rascia.](https://www.taniarascia.com/)
 
 ## 🚀 Quick start
 
@@ -15,7 +16,7 @@
 
     ```shell
     # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    gatsby new starter https://github.com/heriswn/gatsby-dark-starter-minimal.git
     ```
 
 2.  **Start developing.**
@@ -23,7 +24,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-gatsby-site/
+    cd starter/
     npm run develop
     ```
 
